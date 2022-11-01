@@ -11,13 +11,13 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <serenity.version>2.0.29</serenity.version>
+        <serenity.version>3.3.9</serenity.version>
         <serenity.maven.version>2.0.10</serenity.maven.version>
         <parallel.tests>2</parallel.tests>
         <webdriver.base.url>http://todomvc.com/examples/angularjs/#/</webdriver.base.url>
         <encoding>UTF-8</encoding>
-        <serenity.test.root></serenity.test.root>
-        <tags></tags>
+        <serenity.test.root/>
+        <tags/>
     </properties>
 
     <repositories>
