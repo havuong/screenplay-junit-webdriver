@@ -16,8 +16,8 @@
         <parallel.tests>2</parallel.tests>
         <webdriver.base.url>http://todomvc.com/examples/angularjs/#/</webdriver.base.url>
         <encoding>UTF-8</encoding>
-        <serenity.test.root></serenity.test.root>
-        <tags></tags>
+        <serenity.test.root/>
+        <tags/>
     </properties>
 
     <repositories>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>3.6.2</version>
+            <version>3.27.7</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.lambdaj</groupId>
